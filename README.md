@@ -3,3 +3,8 @@
 </p>
 
 
+## Database
+Instalamos paquete de mongoose
+```bash
+npm i @nestjs/mongoose mongoose
+```
